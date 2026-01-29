@@ -14,7 +14,7 @@ public class LinkedList<E> {
             current.next = temp;
         }
         current = temp;
-        size++;v
+        size++;
     }
 
     public void addFirst(E val){
